@@ -1,4 +1,4 @@
-# bicycle-world-command-line-project
+# Bicycle World Command Line Project
 
 Welcome to Bicycle World, the premier text-based bicycle shop, accessible only to programmers who are familiar with the command line.
 
@@ -29,23 +29,23 @@ bicycle-world-ii
    cd bicycle-world-ii
    ```
 
-1. **Navigate the Filesystem**:
+2. **Navigate the Filesystem**:
 
 * Use pwd to display the current working directory.
 * Use ls to list the contents of the current directory.
 * Use cd to change directories.
 
-2. **Create and Edit Files**:
+3. **Create and Edit Files**:
 
 * Use touch to create new files.
 * Use mkdir to create new directories.
 * Use a text editor (not shown in the provided commands) to edit files.
-* 
-3. **Remove Files**:
+  
+4. **Remove Files**:
 
 * Use rm to remove files.
 
-4. **Project Example**:
+## Project Example:
 
 ```bash
 Copy code
