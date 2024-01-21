@@ -1,3 +1,5 @@
+# This is a command line project
+
 # Bicycle World Command Line Project
 
 Welcome to Bicycle World, the premier text-based bicycle shop, accessible only to programmers who are familiar with the command line.
