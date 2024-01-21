@@ -1,1 +1,1 @@
-*.sh linguist-language=Git Bash
+*.bash linguist-language=Git Bash

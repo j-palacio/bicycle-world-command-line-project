@@ -5,7 +5,7 @@ Welcome to Bicycle World, the premier text-based bicycle shop, accessible only t
 ## Project Overview
 
 In this project, you'll utilize command line commands to navigate and edit the filesystem of Bicycle World, represented by the directory structure below:
-
+```
 bicycle-world-ii
 |—— brands.txt
 |—— freight/
@@ -19,9 +19,7 @@ bicycle-world-ii
 |—— racing/
 |—— road/
 |—— track/
-
-bash
-Copy code
+```
 
 ## Project Instructions
 
@@ -31,23 +29,23 @@ Copy code
    cd bicycle-world-ii
    ```
 
-1. Navigate the Filesystem:
+1. **Navigate the Filesystem**:
 
 * Use pwd to display the current working directory.
 * Use ls to list the contents of the current directory.
 * Use cd to change directories.
 
-2. Create and Edit Files:
+2. **Create and Edit Files**:
 
 * Use touch to create new files.
 * Use mkdir to create new directories.
 * Use a text editor (not shown in the provided commands) to edit files.
 * 
-3. Remove Files:
+3. **Remove Files**:
 
 * Use rm to remove files.
 
-4.Project Example:
+4. **Project Example**:
 
 ```bash
 Copy code
